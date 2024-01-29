@@ -1,0 +1,8 @@
+﻿  test.c
+C:\C语言\1-27\1-27\test.c(115,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+C:\C语言\1-27\1-27\test.c(115,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+C:\C语言\1-27\1-27\test.c(116,9): warning C4477: “printf”: 格式字符串“% d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\C语言\1-27\1-27\test.c(116,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  1-27.vcxproj -> C:\C语言\1-27\x64\Debug\1-27.exe
